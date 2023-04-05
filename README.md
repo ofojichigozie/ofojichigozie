@@ -21,7 +21,6 @@ I am a result-driven versatile developer who can readily switch between the role
 - 📝 &nbsp; Checkout my [resume](https://github.com/ofojichigozie/ofojichigozie/blob/main/resume.pdf)
 - 📚 &nbsp; When I am free, I read articles of trending technologies.
 
-
 <br>
 
 ### 🔨 Languages and Tools:
@@ -35,22 +34,3 @@ I am a result-driven versatile developer who can readily switch between the role
 <a href="https://mui.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/material-ui/material-ui.svg" align="left" alt="MUI" height='42px'/></a>
 <a href="https://cloud.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/google-cloud/google-cloud.svg" align="left" alt="Google Cloud" height='42px'/></a>
 
-<br>
-<br>
-<br>
-
-### 📈 Dev Statistics:
-<details>	
-  <summary>⚡ Github Stats</summary>
-  
-  <br />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ofojichigozie&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&text_bold=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ofojichigozie&show_icons=true&hide_border=true&layout=compact&langs_count=12"/>
-</details>
-
-<details>	
-  <summary>☄️ Github Streaks</summary>
-
-  <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ofojichigozie&hide_border=true" />
-</details>
