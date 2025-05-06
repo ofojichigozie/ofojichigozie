@@ -24,10 +24,8 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
 
 ## 🛠️ Technology Stack
 
-<div align="center">
-
 ### Languages
-<p>
+<p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   </a>
@@ -49,7 +47,7 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
 </p>
 
 ### Frontend
-<p>
+<p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
   </a>
@@ -71,12 +69,18 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
 </p>
 
 ### Backend
-<p>
+<p align="left">
   <a href="https://nodejs.org" target="_blank">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
+  </a>
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring boot"/>
+  </a>
+  <a href="https://gin-gonic.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="gin"/>
   </a>
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
@@ -84,16 +88,10 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
   <a href="https://cloud.google.com" target="_blank">
     <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="gcp"/>
   </a>
-  <a href="https://gin-gonic.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="gin"/>
-</a>
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="spring boot"/>
-</a>
 </p>
 
 ### Database
-<p>
+<p align="left">
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
   </a>
@@ -106,7 +104,7 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
 </p>
 
 ### DevOps & Tools
-<p>
+<p align="left">
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
   </a>
@@ -118,13 +116,11 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
   </a>
 </p>
 
-</div>
-
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/ofojichigozie/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -137,9 +133,7 @@ I'm a versatile developer with expertise spanning across front-end, back-end, bl
   <a href="https://t.me/ofojichigozie" target="_blank">
     <img src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-</div>
-
----
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ofojichigozie&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
